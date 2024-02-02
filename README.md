@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Dina
 - 👀 I’m interested in data analytics, machine learning, statistics, math!
+- 🔭 Pursuing Master's degree from UCLA
+- 🌱 Since I lost access to my old account, I'm adding more of the projects I've been working on to this profile :)
+- 😄 I enjoy working with R, Python, and SQL
 
 
 <!---
