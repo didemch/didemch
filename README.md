@@ -6,18 +6,18 @@
 
 I am a data analyst interested in uncovering insights and solving complex problems. I enjoy transforming data into actionable insights using  R, Python, and SQL. I'm passionate about organizing and cleaning up messy data to create visually appealing graphs and charts that tell a story. Plus, I love using advanced techniques to predict future trends and outcomes based on historical data.
 
-👩🏻‍💻 Languages and Data Analytics Tools:
-  ➤ Python
-  ➤ SQL
-  ➤ R Programming
-  ➤ Microsoft Excel: Pivot Tables/Charts, Index/Match, X/VLOOKUP, IFS, SUMIFS
+👩🏻‍💻 Languages and Data Analytics Tools:  
+  ➤ Python   
+  ➤ SQL   
+  ➤ R Programming   
+  ➤ Microsoft Excel: Pivot Tables/Charts, Index/Match, X/VLOOKUP, IFS, SUMIFS   
+ 
+👩🏻‍💻 Data Visualization Tools:  
+  ➤ Tableau  
+  ➤ Power BI  
+  ➤ Matplotlib  
 
-👩🏻‍💻 Data Visualization Tools:
-  ➤ Tableau
-  ➤ Power BI
-  ➤ Matplotlib
-
-👩🏻‍💻 SQL: PostgreSQL, MySQL, Spark
+👩🏻‍💻 SQL: PostgreSQL, MySQL, Spark  
 
 
 <!---
