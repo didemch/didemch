@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Dina
-- 👀 I’m interested in data analytics, machine learning, statistics, math!
-- 🔭 Pursuing Master's degree from UCLA
+# Welcome 👋! I’m Dina :)
+
+- 🔭 I have a Bachelor’s degree in Mathematics from UBC and am on track to graduate with a Master's degree from UCLA.
+- 👀 I’m interested in data analytics, machine learning, statistics, and math!
 - 🌱 Since I lost access to my old account, I'm adding more of the projects I've been working on to this profile :)
-- 😄 I enjoy working with R, Python, and SQL
+- 😄 I enjoy working with R, Python, and SQL.
 
 I am a data analyst interested in uncovering insights and solving complex problems. I enjoy transforming data into actionable insights using  R, Python, and SQL. I'm passionate about organizing and cleaning up messy data to create visually appealing graphs and charts that tell a story. Plus, I love using advanced techniques to predict future trends and outcomes based on historical data.
 
