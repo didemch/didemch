@@ -24,20 +24,3 @@ I am a data analyst interested in uncovering insights and solving complex proble
 didemch/didemch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-library(leaps)
-library(corrplot)
-library(interactions)
-library(MASS)
-library(FNN)
-library(class)
-library(nnet)
-library(kableExtra)
-library(tree)
-library(maptree)
-library(randomForest)
-library(ggplot2)
-library(stringr)
-library(dplyr)
-library(tidyverse)
-library(knitr)
-library(gt)
