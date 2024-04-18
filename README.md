@@ -13,7 +13,7 @@ I am a data analyst interested in uncovering insights and solving complex proble
   ➤ Microsoft Excel: Pivot Tables/Charts, Index/Match, X/VLOOKUP, IFS, SUMIFS   
  
 👩🏻‍💻 Data Visualization Tools:  
-  ➤ Tableau: [Sales Dashboard] (https://public.tableau.com/app/profile/d.d5528/viz/SalesDashboard_17134717008190/SalesDashboard)  
+  ➤ Tableau (both Desktop and Public): [Sales Dashboard](https://public.tableau.com/app/profile/d.d5528/viz/SalesDashboard_17134717008190/SalesDashboard)  
   ➤ Power BI  
   ➤ Matplotlib  
 
