@@ -1,5 +1,6 @@
 # Welcome 👋! I’m Dina :)
 
+- 📊 In just 1+ years as a Data Analyst, I've shown great results, including boosting sales by 20% and generating an extra $200k annually through advanced data analysis techniques like K-means clustering and Market Basket Analysis.
 - 🔭 I have a Bachelor’s degree in Mathematics from UBC and am on track to graduate with a Master's degree from UCLA.
 - 👀 I’m interested in data analytics, machine learning, statistics, and math!
 - 🌱 Since I lost access to my old account, I'm adding more of the projects I've been working on to this profile :)
