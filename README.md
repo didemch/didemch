@@ -8,8 +8,8 @@ I am a data analyst interested in uncovering insights and solving complex proble
 
 👩🏻‍💻 Languages and Data Analytics Tools:  
   ➤ Python   
-  ➤ SQL   
-  ➤ R Programming   
+  ➤ SQL: [Sales Analysis with SQL](https://github.com/didemch/Sales-Analysis-SQL)   
+  ➤ R: [Covid Cases Prediction (tidyverse, leaps, ggplot2)](https://github.com/didemch/Forecasting-Covid-Cases-in-R), [Wine Classification (tidyverse, randomForest, nnet, neuralnet, FNN)](https://github.com/didemch/Wine-Classification-in-R), [Predicting Economic Mobility (glmnet)](https://github.com/didemch/Predicting-Economic-Mobility-in-R)   
   ➤ Microsoft Excel: Pivot Tables/Charts, Index/Match, X/VLOOKUP, IFS, SUMIFS   
  
 👩🏻‍💻 Data Visualization Tools:  
@@ -24,3 +24,20 @@ I am a data analyst interested in uncovering insights and solving complex proble
 didemch/didemch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+library(leaps)
+library(corrplot)
+library(interactions)
+library(MASS)
+library(FNN)
+library(class)
+library(nnet)
+library(kableExtra)
+library(tree)
+library(maptree)
+library(randomForest)
+library(ggplot2)
+library(stringr)
+library(dplyr)
+library(tidyverse)
+library(knitr)
+library(gt)
