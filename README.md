@@ -12,6 +12,7 @@ I am a data analyst interested in uncovering insights and solving complex proble
 
 ➤ Python:
   - [El Nino Data Analysis in Python (numpy, pandas, scipy, sklearn, matplotlib)](https://github.com/didemch/ElNino-Analysis-Python)
+  - [Statistical analysis and visual explanation of large climate data](https://github.com/didemch/Large_Data_Analysis?tab=readme-ov-file)
   
 ➤ SQL:
   - [Sales Analysis with SQL](https://github.com/didemch/Sales-Analysis-SQL)   
